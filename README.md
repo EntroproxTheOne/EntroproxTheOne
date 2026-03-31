@@ -38,6 +38,10 @@ My latest projects revolve around impactful applications, AI concepts, and acces
   <a href="https://github.com/EntroproxTheOne">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EntroproxTheOne&layout=compact&theme=radical" alt="EntroproxTheOne's Top Languages" />
   </a>
+  <br/><br/>
+  <a href="https://github.com/EntroproxTheOne">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EntroproxTheOne&theme=radical" alt="EntroproxTheOne's GitHub Streak" />
+  </a>
 </p>
 
 ---
