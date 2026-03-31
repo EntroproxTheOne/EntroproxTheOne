@@ -1,4 +1,4 @@
-# Hi there, I'm EntroproxTheOne
+# Hi there, I'm EntroproxTheOne (aka Entroprox)
 
 Welcome to my GitHub profile! I'm a passionate developer, learning ethical hacker, and AI enthusiast who loves building varied tools that solve real-world problems.
 
