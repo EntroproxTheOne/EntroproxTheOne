@@ -15,7 +15,7 @@ I am a multifaceted software developer exploring a wide range of diverse technol
 
 My latest projects revolve around impactful applications, AI concepts, and accessibility:
 
-- **Accessible Tech:** Developing tools like `bastepin` (designed to be friendly for users with dyslexia).
+- **Accessible Tech:** Developing tools like `bastepin` (designed to be a community pastebin where its easy to copy-paste).
 - **AI Innovations:** Maintaining specialized models like `LAW_GPT_PLUS`, `Ressurect-AI` (live at [ressurect-ai.netlify.app](https://ressurect-ai.netlify.app)), and `BanaScrape` (created during an AI buildathon).
 - **Developer Ecosystems:** Building out `PyVerse` (a Python universe sandbox) and `Minecraft_Earth_Builder`.
 
