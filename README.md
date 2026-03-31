@@ -28,6 +28,8 @@ My latest projects revolve around impactful applications, AI concepts, and acces
 ### How to reach me?
 
 - **GitHub:** Feel free to open an issue or pull request in any of my active repositories!
+- **Twitter:** https://x.com/entroprox
+- **Instagram:** https://www.instagram.com/entroprox 
 - **Check out my live projects:** Visit [Ressurect-AI](https://ressurect-ai.netlify.app), [bastepin](https://bastepin.vercel.app/), or some of my other deployed prototypes!
 
 ### GitHub Stats
