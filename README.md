@@ -30,8 +30,17 @@ My latest projects revolve around impactful applications, AI concepts, and acces
 - **GitHub:** Feel free to open an issue or pull request in any of my active repositories!
 - **Check out my live projects:** Visit [Ressurect-AI](https://ressurect-ai.netlify.app), [bastepin](https://bastepin.vercel.app/), or some of my other deployed prototypes!
 
----
+### GitHub Stats
+<p align="center">
+  <a href="https://github.com/EntroproxTheOne">
+    <img src="https://github-readme-stats.vercel.app/api?username=EntroproxTheOne&show_icons=true&theme=radical" alt="EntroproxTheOne's GitHub Stats" />
+  </a>
+  <a href="https://github.com/EntroproxTheOne">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EntroproxTheOne&layout=compact&theme=radical" alt="EntroproxTheOne's Top Languages" />
+  </a>
+</p>
 
+---
 <p align="center">
   <i>"Building the systems of tomorrow—from OS kernels to AI and everything in between."</i>
 </p>
